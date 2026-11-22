@@ -46,8 +46,8 @@ python --version       # Windows (or try: py --version)
 **Option A: Clone with Git**
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/xen0byt3/soc_trainer.git
+cd soc_trainer
 ```
 
 **Option B: Download ZIP**
