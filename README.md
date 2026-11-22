@@ -1,4 +1,4 @@
-# SOC Threat Simulation Trainer: Student Activity
+# SOC Threat Simulation Trainer
 
 A hands-on, fully **simulated** lab where you play both sides of an attack: first as the attacker walking a five-stage attack chain, then as the SOC analyst who detects it using **Splunk-style logs** and **Wireshark-style packet views**.
 
