@@ -56,8 +56,6 @@ cd <repo-name>
 2. Click **Code**, then **Download ZIP**.
 3. Extract the ZIP and open a terminal in the extracted folder.
 
-> Instructor note: replace `<your-username>/<repo-name>` above with your real repository path before sharing.
-
 ---
 
 ## 4. Run the lab
